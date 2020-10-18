@@ -1,5 +1,7 @@
 /* dona al <body> element un color de fons de #bdc3c7*/
-
+body{
+    background-color: ;
+}
 
 /* fes que els <h1> siguin de color #9b59b6*/
 
@@ -54,3 +56,4 @@
 
 
 /*Fes que els <a> que hagin estat visitats siguin de color gris */
+
